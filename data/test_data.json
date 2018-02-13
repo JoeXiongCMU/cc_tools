@@ -18,5 +18,15 @@
     },
     "title":"Chip's Challenge 2",
     "Year":2015
+  },
+  "game 3":
+  {
+    "platform":
+    {
+      "launch year":2017,
+      "name":"Nintendo Switch"
+    },
+    "title":"Joe's Challenge",
+    "Year":2018
   }
 }
