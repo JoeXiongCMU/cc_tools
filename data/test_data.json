@@ -3,9 +3,10 @@
   {
     "platform":
     {
-      "launch year":1989,
-      "name":"Atari Lynx"
-    },
+      "launch year": 1989,
+      "name": "Atari Lynx"
+    }
+    ,
     "title":"Chip's Challenge",
     "Year":1989
   },
